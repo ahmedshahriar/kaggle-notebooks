@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-Collection of my competition notebooks on kaggle
+Collection of my [competition](https://www.kaggle.com/ahmedshahriarsakib/competitions?tab=completed) notebooks on kaggle
 
 ## 2021
 - [30 Days of ML](https://github.com/ahmedshahriar/kaggle-notebooks/blob/main/competition/30_days_of_ML.ipynb)
