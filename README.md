@@ -1,5 +1,8 @@
 # Kaggle Notebooks
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/try)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahmedshahriar/Sentiment-Analysis/main) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.dev/ahmedshahriar/kaggle-notebooks/edit/main)
+
 Collection of my [competition](https://www.kaggle.com/ahmedshahriarsakib/competitions?tab=completed) notebooks on kaggle
+
 
 ## 2021
 - [30 Days of ML](https://github.com/ahmedshahriar/kaggle-notebooks/blob/main/competition/30_days_of_ML.ipynb)
